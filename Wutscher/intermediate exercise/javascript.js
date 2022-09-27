@@ -13,8 +13,6 @@ function disappear(){
 }
 
 
-
-
 function bgColor(){
     var n1 = (Math.random()*255)
     var n2 = (Math.random()*255)
