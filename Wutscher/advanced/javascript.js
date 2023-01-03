@@ -10,7 +10,6 @@ var circle = document.getElementById("circle")
 var messageInCircle = document.getElementById("incircle")
 var messageOutCircle = document.getElementById("outcircle")
 
-
 function mouseOver(){
     messageInCircle.style.opacity = 1
     messageOutCircle.style.opacity = 0
